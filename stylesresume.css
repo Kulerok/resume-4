@@ -1,0 +1,101 @@
+
+body {
+font-size: 18px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+word-spacing: 1px;
+color: rgb(48, 54, 54);
+background-color: #f5f7f3;
+/* text-align: center; */
+}
+
+
+.card {
+    border: 0px solid black;
+    border-radius: 20px;
+    margin-bottom: 20px;
+
+}
+
+
+.yeeell{
+    background: rgb(250, 250, 145);
+    padding-left: 30px;
+    padding-top: 1px;
+    padding-bottom: 23px;
+}
+
+
+.bluuue {
+    background: rgb(71, 71, 236);
+}
+
+.reaad {
+    background: rgb(252, 158, 177);
+    padding-left: 30px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
+
+.container {
+    width: 400px;
+    margin: auto;
+}
+
+.ssilka {
+   margin: 40px;
+}
+
+.ava {
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);   
+    margin-left: 115px;
+}
+
+.info {
+    margin-left: 25px;
+}
+
+
+.svyaz {
+    margin-left: 35px;
+}
+
+.ssislka2, .ssilka3 {
+    color:black;
+    text-decoration: none;
+}
+.ssilka3:hover {
+    color:rgb(14, 129, 129);
+}
+
+.ssislka2:hover {
+    color:rgb(14, 129, 129);
+}
+.btn {
+    background-color:black ;
+    color: white;
+    border: none;
+    padding:20px;
+    font-weight:bold;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.list {
+    padding: 0 20px;
+}
+
+.list li {
+    color:rgb(124, 14, 36);
+    margin-bottom: 10px;
+}
+
+
+.tablitsa {
+    width: 100%;
+}
+
+.tablitsa td:nth-child (1) {
+  background-color: red;
+}
+
+
